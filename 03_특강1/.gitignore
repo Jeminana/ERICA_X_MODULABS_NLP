@@ -1,0 +1,20 @@
+# Original downloaded materials stay local.
+/*.zip
+/*.pdf
+/*.docx
+/*.xlsx
+
+# Private project materials, reference images, and internal worksheet notes.
+/포트폴리오-템플릿/my-materials/
+/포트폴리오-템플릿/reference/
+/포트폴리오-템플릿/worksheet/작업물목록.md
+/포트폴리오-템플릿/worksheet/work-inventory-en.md
+
+# Local design history and original unfinished HTML.
+/포트폴리오-템플릿/design/*-backup/
+/포트폴리오-템플릿/portfolio/index_이전.html
+
+# Python caches and local temporary files.
+__pycache__/
+*.pyc
+*.tmp
